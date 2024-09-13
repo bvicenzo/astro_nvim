@@ -32,3 +32,18 @@ git clone https://github.com/bvicenzo/astro_nvim ~/.config/nvim
 ```shell
 nvim
 ```
+
+#### Updating repo with template
+
+#### Configuring
+
+```shell
+git remote add template https://github.com/AstroNvim/template.git
+```
+
+#### Updating
+
+```shell
+git fetch --all
+git merge template/main --allow-unrelated-histories
+```
