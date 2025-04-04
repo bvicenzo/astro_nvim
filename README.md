@@ -47,3 +47,18 @@ git remote add template https://github.com/AstroNvim/template.git
 git fetch --all
 git merge template/main --allow-unrelated-histories
 ```
+
+### Customize
+
+
+### User Options
+
+See https://github.com/bvicenzo/astro_nvim/blob/master/lua/user/options.lua.
+
+## User Mappings
+
+See https://github.com/bvicenzo/astro_nvim/blob/master/lua/plugins/mappings.lua.
+
+## Plugins
+
+Add a lua module at [plugins](https://github.com/bvicenzo/astro_nvim/tree/master/lua/plugins) folder.
