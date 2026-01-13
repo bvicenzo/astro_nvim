@@ -62,3 +62,8 @@ See https://github.com/bvicenzo/astro_nvim/blob/master/lua/plugins/mappings.lua.
 ## Plugins
 
 Add a lua module at [plugins](https://github.com/bvicenzo/astro_nvim/tree/master/lua/plugins) folder.
+
+## Custom Plugins
+
+- [Copy Reference](https://github.com/cajames/copy-reference.nvim);
+
