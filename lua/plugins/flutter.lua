@@ -2,7 +2,7 @@
 return {
   {
     "akinsho/flutter-tools.nvim",
-    lazy = false,
+    ft = "dart",  -- Load only when opening .dart files
     dependencies = {
       "nvim-lua/plenary.nvim",
       "stevearc/dressing.nvim",
