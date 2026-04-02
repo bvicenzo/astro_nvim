@@ -65,5 +65,10 @@ Add a lua module at [plugins](https://github.com/bvicenzo/astro_nvim/tree/master
 
 ## Custom Plugins
 
-- [Copy Reference](https://github.com/cajames/copy-reference.nvim);
+- [Copy Reference](https://github.com/cajames/copy-reference.nvim)
+- [Flutter Tools](https://github.com/akinsho/flutter-tools.nvim)
+
+## Guides
+
+- **[Flutter Development](guides/flutter.md)** - Complete guide for Flutter/Dart development in AstroNvim
 
